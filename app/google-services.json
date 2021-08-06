@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932191257883",
+    "project_id": "doctorappointment-98ffb",
+    "storage_bucket": "doctorappointment-98ffb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932191257883:android:44fa73607c3a8e6b7fbfbe",
+        "android_client_info": {
+          "package_name": "com.example.doctor_appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932191257883-a3c95pr53odusm4q8er5ad0qih2cc0kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnithRX9x_XBYAH7Z3w7k7BielwKdiWeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932191257883-a3c95pr53odusm4q8er5ad0qih2cc0kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
